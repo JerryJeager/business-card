@@ -1,3 +1,10 @@
+# Business card
+
+It's a simple business card I built using react, this is my first react project
+
+# live site link
+http://jerry-jeager.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
